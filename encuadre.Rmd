@@ -1,0 +1,13 @@
+---
+title: "Encuadre"
+---
+
+## Introducción a las Matemáticas
+
+__Objetivo de la asignatura__. El alumno será capaz de aplicar el algebra como herramienta básica para la representación formal de hechos reales que implican problemas de aplicación administrativa.
+
+## Contenido
+1. __Expresiones algebraicas__.
+2. __Productos notables y factorización__.
+3. __Ecuaciones lineales__.
+4. __Introducción a la Geometría y la Trigonometría__.
